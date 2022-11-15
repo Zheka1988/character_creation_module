@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#Graphic arts
-/graphic_arts
+#papki
+graphic_arts/
 .vscode
 
